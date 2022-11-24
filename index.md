@@ -1,8 +1,8 @@
-## Wangzhe 
+## 王喆
 
 ### Biography
 
-This is WangZhe from shanghai university.
+This is Wang Zhe from Shanghai university.
 
 ### CSDN
 
